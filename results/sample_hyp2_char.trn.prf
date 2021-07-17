@@ -1,0 +1,367 @@
+NIST_TEXT_ALIGNMENT
+VERSION 0.1
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   sample_hyp2_char.trn
+Ref file:      sample_ref_char.trn
+Hyp file:      sample_hyp2_char.trn
+Creation date: "Sat Jul 17 14:10:29 2021"
+
+Speaker Count: 1
+Speakers: 
+    0:  
+
+
+Speaker sentences   0:     utt# 0 of 50
+id: (001)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ア マ グ モ 
+HYP:  ア マ グ モ 
+Eval:                 
+
+Speaker sentences   0:     utt# 1 of 50
+id: (002)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  オ シ ダ シ 
+HYP:  オ ヒ ダ シ 
+Eval:     S           
+
+Speaker sentences   0:     utt# 2 of 50
+id: (003)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  キ マ グ レ 
+HYP:  ク マ ゴ メ 
+Eval: S       S   S   
+
+Speaker sentences   0:     utt# 3 of 50
+id: (004)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ス テ レ オ 
+HYP:  ス テ レ オ 
+Eval:                 
+
+Speaker sentences   0:     utt# 4 of 50
+id: (005)
+Scores: (#C #S #D #I) 2 2 0 1
+REF:  テ イ *** サ ツ 
+HYP:  テ イ チ ャ ク 
+Eval:         I   S   S   
+
+Speaker sentences   0:     utt# 5 of 50
+id: (006)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ノ ケ モ ノ 
+HYP:  ノ ケ モ ノ 
+Eval:                 
+
+Speaker sentences   0:     utt# 6 of 50
+id: (007)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ハ ゲ タ カ 
+HYP:  ハ ゲ タ カ 
+Eval:                 
+
+Speaker sentences   0:     utt# 7 of 50
+id: (008)
+Scores: (#C #S #D #I) 0 4 0 0
+REF:  ミ ギ ウ デ 
+HYP:  マ ク ア ケ 
+Eval: S   S   S   S   
+
+Speaker sentences   0:     utt# 8 of 50
+id: (009)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  ヨ リ ミ チ 
+HYP:  ム ギ ミ チ 
+Eval: S   S           
+
+Speaker sentences   0:     utt# 9 of 50
+id: (010)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ア シ バ ヤ 
+HYP:  ア シ バ ヤ 
+Eval:                 
+
+Speaker sentences   0:     utt# 10 of 50
+id: (011)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  オ ヤ モ ト 
+HYP:  オ ヤ モ ト 
+Eval:                 
+
+Speaker sentences   0:     utt# 11 of 50
+id: (012)
+Scores: (#C #S #D #I) 3 1 0 1
+REF:  *** ソ ウ タ イ 
+HYP:  シ ョ ウ タ イ 
+Eval: I   S               
+
+Speaker sentences   0:     utt# 12 of 50
+id: (013)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ア イ ア イ 
+HYP:  ア イ ア イ 
+Eval:                 
+
+Speaker sentences   0:     utt# 13 of 50
+id: (014)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  オ ハ グ ロ 
+HYP:  オ ハ グ ロ 
+Eval:                 
+
+Speaker sentences   0:     utt# 14 of 50
+id: (015)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  ギ ン ブ ン 
+HYP:  キ ン プ ン 
+Eval: S       S       
+
+Speaker sentences   0:     utt# 15 of 50
+id: (016)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  ス ジ ガ ネ 
+HYP:  ツ リ カ ネ 
+Eval: S   S   S       
+
+Speaker sentences   0:     utt# 16 of 50
+id: (017)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  テ イ テ ツ 
+HYP:  テ イ テ ツ 
+Eval:                 
+
+Speaker sentences   0:     utt# 17 of 50
+id: (018)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ノ ド ブ エ 
+HYP:  ノ ド ブ エ 
+Eval:                 
+
+Speaker sentences   0:     utt# 18 of 50
+id: (019)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ハ ヤ ビ ケ 
+HYP:  ハ ヤ ビ ケ 
+Eval:                 
+
+Speaker sentences   0:     utt# 19 of 50
+id: (020)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  ミ ソ ヅ ケ 
+HYP:  ミ ソ ズ ケ 
+Eval:         S       
+
+Speaker sentences   0:     utt# 20 of 50
+id: (021)
+Scores: (#C #S #D #I) 0 4 0 0
+REF:  ヨ ロ ズ ヤ 
+HYP:  ノ ノ ジ ア 
+Eval: S   S   S   S   
+
+Speaker sentences   0:     utt# 21 of 50
+id: (022)
+Scores: (#C #S #D #I) 2 2 0 1
+REF:  ワ ル *** ヂ エ 
+HYP:  モ ル デ ィ エ 
+Eval: S       I   S       
+
+Speaker sentences   0:     utt# 22 of 50
+id: (023)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  ブ ツ ヨ ク 
+HYP:  フ ツ ロ ク 
+Eval: S       S       
+
+Speaker sentences   0:     utt# 23 of 50
+id: (024)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  ナ ラ ワ シ 
+HYP:  マ マ ワ チ 
+Eval: S   S       S   
+
+Speaker sentences   0:     utt# 24 of 50
+id: (025)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  ア ト ヅ ケ 
+HYP:  ア ト ズ ケ 
+Eval:         S       
+
+Speaker sentences   0:     utt# 25 of 50
+id: (026)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  キ ン ム ク 
+HYP:  キ ン ム ク 
+Eval:                 
+
+Speaker sentences   0:     utt# 26 of 50
+id: (027)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  ス ミ イ ト 
+HYP:  ツ ミ ビ ト 
+Eval: S       S       
+
+Speaker sentences   0:     utt# 27 of 50
+id: (028)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  テ ラ セ ン 
+HYP:  ゼ ラ チ ン 
+Eval: S       S       
+
+Speaker sentences   0:     utt# 28 of 50
+id: (029)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ノ ベ イ タ 
+HYP:  ノ ベ イ タ 
+Eval:                 
+
+Speaker sentences   0:     utt# 29 of 50
+id: (030)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ハ ン ハ バ 
+HYP:  ハ ン ハ バ 
+Eval:                 
+
+Speaker sentences   0:     utt# 30 of 50
+id: (031)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  ミ チ イ ト 
+HYP:  ミ ギ イ ト 
+Eval:     S           
+
+Speaker sentences   0:     utt# 31 of 50
+id: (032)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ヨ コ ブ リ 
+HYP:  ヨ コ ブ リ 
+Eval:                 
+
+Speaker sentences   0:     utt# 32 of 50
+id: (033)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  ワ タ シ バ 
+HYP:  ワ タ チ バ 
+Eval:         S       
+
+Speaker sentences   0:     utt# 33 of 50
+id: (034)
+Scores: (#C #S #D #I) 0 4 0 2
+REF:  *** *** バ ン セ ツ 
+HYP:  マ チ ュ ピ チ ュ 
+Eval: I   I   S   S   S   S   
+
+Speaker sentences   0:     utt# 34 of 50
+id: (035)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  フ ナ ド メ 
+HYP:  ウ マ ゴ メ 
+Eval: S   S   S       
+
+Speaker sentences   0:     utt# 35 of 50
+id: (036)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  ギ ョ ク ガ ン 
+HYP:  ギ ョ ク ガ ン 
+Eval:                     
+
+Speaker sentences   0:     utt# 36 of 50
+id: (037)
+Scores: (#C #S #D #I) 3 1 0 1
+REF:  *** ラ イ ニ ン 
+HYP:  ニ ャ イ ニ ン 
+Eval: I   S               
+
+Speaker sentences   0:     utt# 37 of 50
+id: (038)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  ア イ キ ャ ク 
+HYP:  バ イ キ ャ ク 
+Eval: S                   
+
+Speaker sentences   0:     utt# 38 of 50
+id: (039)
+Scores: (#C #S #D #I) 3 2 0 0
+REF:  ギ ョ ク ダ イ 
+HYP:  ギ ャ ク タ イ 
+Eval:     S       S       
+
+Speaker sentences   0:     utt# 39 of 50
+id: (040)
+Scores: (#C #S #D #I) 2 2 0 1
+REF:  *** ス ギ ワ イ 
+HYP:  シ ュ ビ ワ イ 
+Eval: I   S   S           
+
+Speaker sentences   0:     utt# 40 of 50
+id: (041)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  テ イ ダ ン 
+HYP:  テ イ ダ ン 
+Eval:                 
+
+Speaker sentences   0:     utt# 41 of 50
+id: (042)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  ノ ウ ヘ イ 
+HYP:  ノ ウ ヘ イ 
+Eval:                 
+
+Speaker sentences   0:     utt# 42 of 50
+id: (043)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  ハ ナ ガ メ 
+HYP:  ハ マ ガ メ 
+Eval:     S           
+
+Speaker sentences   0:     utt# 43 of 50
+id: (044)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  ミ サ サ ギ 
+HYP:  ミ ヤ ザ キ 
+Eval:     S   S   S   
+
+Speaker sentences   0:     utt# 44 of 50
+id: (045)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  ヨ ロ シ キ 
+HYP:  ヨ ヨ ツ キ 
+Eval:     S   S       
+
+Speaker sentences   0:     utt# 45 of 50
+id: (046)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  ワ レ ボ メ 
+HYP:  マ イ ゴ メ 
+Eval: S   S   S       
+
+Speaker sentences   0:     utt# 46 of 50
+id: (047)
+Scores: (#C #S #D #I) 1 2 1 0
+REF:  ネ イ ジ ツ 
+HYP:  ネ *** リ ク 
+Eval:     D   S   S   
+
+Speaker sentences   0:     utt# 47 of 50
+id: (048)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  ラ ン リ ン 
+HYP:  ナ ン ミ ン 
+Eval: S       S       
+
+Speaker sentences   0:     utt# 48 of 50
+id: (049)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  リ ン バ ン 
+HYP:  イ ン バ ン 
+Eval: S               
+
+Speaker sentences   0:     utt# 49 of 50
+id: (050)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  ホ シ ア イ 
+HYP:  オ キ ア イ 
+Eval: S   S           
+
+

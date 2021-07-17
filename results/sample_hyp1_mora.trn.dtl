@@ -1,0 +1,166 @@
+DETAILED OVERALL REPORT FOR THE SYSTEM: sample_hyp1_mora.trn
+
+SENTENCE RECOGNITION PERFORMANCE
+
+ sentences                                          50
+ with errors                             56.0%   (  28)
+
+   with substitions                      56.0%   (  28)
+   with deletions                         2.0%   (   1)
+   with insertions                       16.0%   (   8)
+
+
+WORD RECOGNITION PERFORMANCE
+
+Percent Total Error       =   27.0%   (  54)
+
+Percent Correct           =   77.0%   ( 154)
+
+Percent Substitution      =   22.5%   (  45)
+Percent Deletions         =    0.5%   (   1)
+Percent Insertions        =    4.0%   (   8)
+Percent Word Accuracy     =   73.0%
+
+
+Ref. words                =           ( 200)
+Hyp. words                =           ( 207)
+Aligned words             =           ( 208)
+
+CONFUSION PAIRS                  Total                 (35)
+                                 With >=  1 occurances (35)
+
+   1:    4  ->  シ ==> チ
+   2:    4  ->  ツ ==> ク
+   3:    2  ->  ギ ==> キ
+   4:    2  ->  サ ==> ャ
+   5:    2  ->  ラ ==> ア
+   6:    2  ->  リ ==> ニ
+   7:    1  ->  ア ==> ラ
+   8:    1  ->  ウ ==> ア
+   9:    1  ->  オ ==> ゴ
+  10:    1  ->  ガ ==> カ
+  11:    1  ->  ギ ==> ク
+  12:    1  ->  ギョ ==> ゴ
+  13:    1  ->  ク ==> フ
+  14:    1  ->  ケ ==> テ
+  15:    1  ->  サ ==> ジャ
+  16:    1  ->  シ ==> キ
+  17:    1  ->  ジ ==> ギ
+  18:    1  ->  ジ ==> ディ
+  19:    1  ->  ス ==> キ
+  20:    1  ->  ス ==> ツ
+  21:    1  ->  ス ==> ュ
+  22:    1  ->  ズ ==> ビ
+  23:    1  ->  セ ==> キ
+  24:    1  ->  セ ==> チ
+  25:    1  ->  ソ ==> キョ
+  26:    1  ->  タ ==> ダ
+  27:    1  ->  ツ ==> チ
+  28:    1  ->  テ ==> レ
+  29:    1  ->  デ ==> ケ
+  30:    1  ->  ブ ==> ク
+  31:    1  ->  ブ ==> プ
+  32:    1  ->  ホ ==> オ
+  33:    1  ->  ミ ==> マ
+  34:    1  ->  ラ ==> ハ
+  35:    1  ->  レ ==> ヘ
+     -------
+        45
+
+
+
+INSERTIONS                       Total                 (6)
+                                 With >=  1 occurances (6)
+
+   1:    3  ->  チ
+   2:    1  ->  ツ
+   3:    1  ->  ヒ
+   4:    1  ->  プ
+   5:    1  ->  ミ
+   6:    1  ->  ン
+     -------
+         8
+
+
+
+DELETIONS                        Total                 (1)
+                                 With >=  1 occurances (1)
+
+   1:    1  ->  イ
+     -------
+         1
+
+
+
+SUBSTITUTIONS                    Total                 (25)
+                                 With >=  1 occurances (25)
+
+   1:    5  ->  シ
+   2:    5  ->  ツ
+   3:    3  ->  ギ
+   4:    3  ->  サ
+   5:    3  ->  ス
+   6:    3  ->  ラ
+   7:    2  ->  ジ
+   8:    2  ->  セ
+   9:    2  ->  ブ
+  10:    2  ->  リ
+  11:    1  ->  ア
+  12:    1  ->  ウ
+  13:    1  ->  オ
+  14:    1  ->  ガ
+  15:    1  ->  ギョ
+  16:    1  ->  ク
+  17:    1  ->  ケ
+  18:    1  ->  ズ
+  19:    1  ->  ソ
+  20:    1  ->  タ
+  21:    1  ->  テ
+  22:    1  ->  デ
+  23:    1  ->  ホ
+  24:    1  ->  ミ
+  25:    1  ->  レ
+     -------
+        45
+
+
+* NOTE: The 'Substitution' words are those reference words
+        for which the recognizer supplied an incorrect word.
+
+
+FALSELY RECOGNIZED               Total                 (26)
+                                 With >=  1 occurances (26)
+
+   1:    6  ->  ク
+   2:    6  ->  チ
+   3:    5  ->  キ
+   4:    3  ->  ア
+   5:    2  ->  ゴ
+   6:    2  ->  ニ
+   7:    2  ->  ャ
+   8:    1  ->  オ
+   9:    1  ->  カ
+  10:    1  ->  キョ
+  11:    1  ->  ギ
+  12:    1  ->  ケ
+  13:    1  ->  ジャ
+  14:    1  ->  ダ
+  15:    1  ->  ツ
+  16:    1  ->  テ
+  17:    1  ->  ディ
+  18:    1  ->  ハ
+  19:    1  ->  ビ
+  20:    1  ->  フ
+  21:    1  ->  プ
+  22:    1  ->  ヘ
+  23:    1  ->  マ
+  24:    1  ->  ュ
+  25:    1  ->  ラ
+  26:    1  ->  レ
+     -------
+        45
+
+
+* NOTE: The 'Falsely Recognized' words are those hypothesis words
+        which the recognizer incorrectly substituted for a reference word.
+

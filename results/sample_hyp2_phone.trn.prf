@@ -1,0 +1,367 @@
+NIST_TEXT_ALIGNMENT
+VERSION 0.1
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   sample_hyp2_phone.trn
+Ref file:      sample_ref_phone.trn
+Hyp file:      sample_hyp2_phone.trn
+Creation date: "Sat Jul 17 14:10:29 2021"
+
+Speaker Count: 1
+Speakers: 
+    0:  
+
+
+Speaker sentences   0:     utt# 0 of 50
+id: (001)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  a m a g u m o 
+HYP:  a m a g u m o 
+Eval:               
+
+Speaker sentences   0:     utt# 1 of 50
+id: (002)
+Scores: (#C #S #D #I) 8 0 1 0
+REF:  o S h i d a s h i 
+HYP:  o * h i d a s h i 
+Eval:   D               
+
+Speaker sentences   0:     utt# 2 of 50
+id: (003)
+Scores: (#C #S #D #I) 5 3 0 0
+REF:  k I m a g U R e 
+HYP:  k U m a g O M e 
+Eval:   S       S S   
+
+Speaker sentences   0:     utt# 3 of 50
+id: (004)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  s u t e r e o 
+HYP:  s u t e r e o 
+Eval:               
+
+Speaker sentences   0:     utt# 4 of 50
+id: (005)
+Scores: (#C #S #D #I) 5 2 1 1
+REF:  t e i * S a T S u 
+HYP:  t e i C H a * K u 
+Eval:       I S   D S   
+
+Speaker sentences   0:     utt# 5 of 50
+id: (006)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  n o k e m o n o 
+HYP:  n o k e m o n o 
+Eval:                 
+
+Speaker sentences   0:     utt# 6 of 50
+id: (007)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  h a g e t a k a 
+HYP:  h a g e t a k a 
+Eval:                 
+
+Speaker sentences   0:     utt# 7 of 50
+id: (008)
+Scores: (#C #S #D #I) 3 3 1 1
+REF:  m I G I u * D e 
+HYP:  m * A K u A K e 
+Eval:   D S S   I S   
+
+Speaker sentences   0:     utt# 8 of 50
+id: (009)
+Scores: (#C #S #D #I) 6 3 0 0
+REF:  Y O R i m i c h i 
+HYP:  M U G i m i c h i 
+Eval: S S S             
+
+Speaker sentences   0:     utt# 9 of 50
+id: (010)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  a s h i b a y a 
+HYP:  a s h i b a y a 
+Eval:                 
+
+Speaker sentences   0:     utt# 10 of 50
+id: (011)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  o y a m o t o 
+HYP:  o y a m o t o 
+Eval:               
+
+Speaker sentences   0:     utt# 11 of 50
+id: (012)
+Scores: (#C #S #D #I) 6 0 0 1
+REF:  s * o u t a i 
+HYP:  s H o u t a i 
+Eval:   I           
+
+Speaker sentences   0:     utt# 12 of 50
+id: (013)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  a i a i 
+HYP:  a i a i 
+Eval:         
+
+Speaker sentences   0:     utt# 13 of 50
+id: (014)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  o h a g u r o 
+HYP:  o h a g u r o 
+Eval:               
+
+Speaker sentences   0:     utt# 14 of 50
+id: (015)
+Scores: (#C #S #D #I) 4 2 0 0
+REF:  G i n B u n 
+HYP:  K i n P u n 
+Eval: S     S     
+
+Speaker sentences   0:     utt# 15 of 50
+id: (016)
+Scores: (#C #S #D #I) 6 2 0 1
+REF:  * s u J i G a n e 
+HYP:  T s u R i K a n e 
+Eval: I     S   S       
+
+Speaker sentences   0:     utt# 16 of 50
+id: (017)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  t e i t e t s u 
+HYP:  t e i t e t s u 
+Eval:                 
+
+Speaker sentences   0:     utt# 17 of 50
+id: (018)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  n o d o b u e 
+HYP:  n o d o b u e 
+Eval:               
+
+Speaker sentences   0:     utt# 18 of 50
+id: (019)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  h a y a b i k e 
+HYP:  h a y a b i k e 
+Eval:                 
+
+Speaker sentences   0:     utt# 19 of 50
+id: (020)
+Scores: (#C #S #D #I) 7 1 0 0
+REF:  m i s o D u k e 
+HYP:  m i s o Z u k e 
+Eval:         S       
+
+Speaker sentences   0:     utt# 20 of 50
+id: (021)
+Scores: (#C #S #D #I) 3 4 1 0
+REF:  Y o R o Z U Y a 
+HYP:  N o N o * J I a 
+Eval: S   S   D S S   
+
+Speaker sentences   0:     utt# 21 of 50
+id: (022)
+Scores: (#C #S #D #I) 4 3 0 0
+REF:  W A r u J i e 
+HYP:  M O r u D i e 
+Eval: S S     S     
+
+Speaker sentences   0:     utt# 22 of 50
+id: (023)
+Scores: (#C #S #D #I) 7 2 0 0
+REF:  B u t s u Y o k u 
+HYP:  F u t s u R o k u 
+Eval: S         S       
+
+Speaker sentences   0:     utt# 23 of 50
+id: (024)
+Scores: (#C #S #D #I) 6 3 0 0
+REF:  N a R a w a S h i 
+HYP:  M a M a w a C h i 
+Eval: S   S       S     
+
+Speaker sentences   0:     utt# 24 of 50
+id: (025)
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  a t o D u k e 
+HYP:  a t o Z u k e 
+Eval:       S       
+
+Speaker sentences   0:     utt# 25 of 50
+id: (026)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  k i n m u k u 
+HYP:  k i n m u k u 
+Eval:               
+
+Speaker sentences   0:     utt# 26 of 50
+id: (027)
+Scores: (#C #S #D #I) 7 0 0 2
+REF:  * s u m i * i t o 
+HYP:  T s u m i B i t o 
+Eval: I         I       
+
+Speaker sentences   0:     utt# 27 of 50
+id: (028)
+Scores: (#C #S #D #I) 4 3 0 1
+REF:  T e r a * S E n 
+HYP:  Z e r a C H I n 
+Eval: S       I S S   
+
+Speaker sentences   0:     utt# 28 of 50
+id: (029)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  n o b e i t a 
+HYP:  n o b e i t a 
+Eval:               
+
+Speaker sentences   0:     utt# 29 of 50
+id: (030)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  h a n h a b a 
+HYP:  h a n h a b a 
+Eval:               
+
+Speaker sentences   0:     utt# 30 of 50
+id: (031)
+Scores: (#C #S #D #I) 6 1 1 0
+REF:  m i C H i i t o 
+HYP:  m i * G i i t o 
+Eval:     D S         
+
+Speaker sentences   0:     utt# 31 of 50
+id: (032)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  y o k o b u r i 
+HYP:  y o k o b u r i 
+Eval:                 
+
+Speaker sentences   0:     utt# 32 of 50
+id: (033)
+Scores: (#C #S #D #I) 8 1 0 0
+REF:  w a t a S h i b a 
+HYP:  w a t a C h i b a 
+Eval:         S         
+
+Speaker sentences   0:     utt# 33 of 50
+id: (034)
+Scores: (#C #S #D #I) 2 6 0 2
+REF:  B a * * N S E T S u 
+HYP:  M a C H U P I C H u 
+Eval: S   I I S S S S S   
+
+Speaker sentences   0:     utt# 34 of 50
+id: (035)
+Scores: (#C #S #D #I) 5 2 1 0
+REF:  F u N a D o m e 
+HYP:  * u M a G o m e 
+Eval: D   S   S       
+
+Speaker sentences   0:     utt# 35 of 50
+id: (036)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  g y o k u g a n 
+HYP:  g y o k u g a n 
+Eval:                 
+
+Speaker sentences   0:     utt# 36 of 50
+id: (037)
+Scores: (#C #S #D #I) 5 1 0 1
+REF:  * R a i n i n 
+HYP:  N Y a i n i n 
+Eval: I S           
+
+Speaker sentences   0:     utt# 37 of 50
+id: (038)
+Scores: (#C #S #D #I) 7 0 0 1
+REF:  * a i k y a k u 
+HYP:  B a i k y a k u 
+Eval: I               
+
+Speaker sentences   0:     utt# 38 of 50
+id: (039)
+Scores: (#C #S #D #I) 6 2 0 0
+REF:  g y O k u D a i 
+HYP:  g y A k u T a i 
+Eval:     S     S     
+
+Speaker sentences   0:     utt# 39 of 50
+id: (040)
+Scores: (#C #S #D #I) 6 1 0 1
+REF:  s * u G i w a i 
+HYP:  s H u B i w a i 
+Eval:   I   S         
+
+Speaker sentences   0:     utt# 40 of 50
+id: (041)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  t e i d a n 
+HYP:  t e i d a n 
+Eval:             
+
+Speaker sentences   0:     utt# 41 of 50
+id: (042)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  n o u h e i 
+HYP:  n o u h e i 
+Eval:             
+
+Speaker sentences   0:     utt# 42 of 50
+id: (043)
+Scores: (#C #S #D #I) 7 1 0 0
+REF:  h a N a g a m e 
+HYP:  h a M a g a m e 
+Eval:     S           
+
+Speaker sentences   0:     utt# 43 of 50
+id: (044)
+Scores: (#C #S #D #I) 5 3 0 0
+REF:  m i S a S a G i 
+HYP:  m i Y a Z a K i 
+Eval:     S   S   S   
+
+Speaker sentences   0:     utt# 44 of 50
+id: (045)
+Scores: (#C #S #D #I) 6 2 1 1
+REF:  y o R o * s H I k i 
+HYP:  y o Y o T s * U k i 
+Eval:     S   I   D S     
+
+Speaker sentences   0:     utt# 45 of 50
+id: (046)
+Scores: (#C #S #D #I) 4 3 1 0
+REF:  W a R E B o m e 
+HYP:  M a * I G o m e 
+Eval: S   D S S       
+
+Speaker sentences   0:     utt# 46 of 50
+id: (047)
+Scores: (#C #S #D #I) 4 2 2 0
+REF:  n e I J i T S u 
+HYP:  n e * R i * K u 
+Eval:     D S   D S   
+
+Speaker sentences   0:     utt# 47 of 50
+id: (048)
+Scores: (#C #S #D #I) 4 2 0 0
+REF:  R a n R i n 
+HYP:  N a n M i n 
+Eval: S     S     
+
+Speaker sentences   0:     utt# 48 of 50
+id: (049)
+Scores: (#C #S #D #I) 5 0 1 0
+REF:  R i n b a n 
+HYP:  * i n b a n 
+Eval: D           
+
+Speaker sentences   0:     utt# 49 of 50
+id: (050)
+Scores: (#C #S #D #I) 4 1 2 0
+REF:  H o S H i a i 
+HYP:  * o * K i a i 
+Eval: D   D S       
+
+

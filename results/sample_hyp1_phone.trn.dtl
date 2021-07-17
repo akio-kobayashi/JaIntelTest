@@ -1,0 +1,144 @@
+DETAILED OVERALL REPORT FOR THE SYSTEM: sample_hyp1_phone.trn
+
+SENTENCE RECOGNITION PERFORMANCE
+
+ sentences                                          50
+ with errors                             56.0%   (  28)
+
+   with substitions                      48.0%   (  24)
+   with deletions                        14.0%   (   7)
+   with insertions                       24.0%   (  12)
+
+
+WORD RECOGNITION PERFORMANCE
+
+Percent Total Error       =   17.7%   (  66)
+
+Percent Correct           =   86.3%   ( 321)
+
+Percent Substitution      =   11.8%   (  44)
+Percent Deletions         =    1.9%   (   7)
+Percent Insertions        =    4.0%   (  15)
+Percent Word Accuracy     =   82.3%
+
+
+Ref. words                =           ( 372)
+Hyp. words                =           ( 380)
+Aligned words             =           ( 387)
+
+CONFUSION PAIRS                  Total                 (28)
+                                 With >=  1 occurances (28)
+
+   1:    5  ->  s ==> c
+   2:    5  ->  s ==> k
+   3:    4  ->  s ==> h
+   4:    3  ->  g ==> k
+   5:    2  ->  r ==> h
+   6:    2  ->  r ==> n
+   7:    2  ->  u ==> i
+   8:    1  ->  b ==> k
+   9:    1  ->  b ==> p
+  10:    1  ->  d ==> k
+  11:    1  ->  e ==> h
+  12:    1  ->  e ==> i
+  13:    1  ->  e ==> u
+  14:    1  ->  g ==> a
+  15:    1  ->  i ==> k
+  16:    1  ->  j ==> d
+  17:    1  ->  j ==> g
+  18:    1  ->  k ==> f
+  19:    1  ->  k ==> t
+  20:    1  ->  m ==> k
+  21:    1  ->  r ==> i
+  22:    1  ->  s ==> j
+  23:    1  ->  s ==> y
+  24:    1  ->  t ==> c
+  25:    1  ->  t ==> d
+  26:    1  ->  t ==> i
+  27:    1  ->  t ==> p
+  28:    1  ->  z ==> b
+     -------
+        44
+
+
+
+INSERTIONS                       Total                 (10)
+                                 With >=  1 occurances (10)
+
+   1:    3  ->  c
+   2:    2  ->  k
+   3:    2  ->  m
+   4:    2  ->  t
+   5:    1  ->  a
+   6:    1  ->  e
+   7:    1  ->  g
+   8:    1  ->  i
+   9:    1  ->  n
+  10:    1  ->  r
+     -------
+        15
+
+
+
+DELETIONS                        Total                 (5)
+                                 With >=  1 occurances (5)
+
+   1:    3  ->  t
+   2:    1  ->  h
+   3:    1  ->  i
+   4:    1  ->  s
+   5:    1  ->  y
+     -------
+         7
+
+
+
+SUBSTITUTIONS                    Total                 (13)
+                                 With >=  1 occurances (13)
+
+   1:   16  ->  s
+   2:    5  ->  r
+   3:    4  ->  g
+   4:    4  ->  t
+   5:    3  ->  e
+   6:    2  ->  b
+   7:    2  ->  j
+   8:    2  ->  k
+   9:    2  ->  u
+  10:    1  ->  d
+  11:    1  ->  i
+  12:    1  ->  m
+  13:    1  ->  z
+     -------
+        44
+
+
+* NOTE: The 'Substitution' words are those reference words
+        for which the recognizer supplied an incorrect word.
+
+
+FALSELY RECOGNIZED               Total                 (15)
+                                 With >=  1 occurances (15)
+
+   1:   12  ->  k
+   2:    7  ->  h
+   3:    6  ->  c
+   4:    5  ->  i
+   5:    2  ->  d
+   6:    2  ->  n
+   7:    2  ->  p
+   8:    1  ->  a
+   9:    1  ->  b
+  10:    1  ->  f
+  11:    1  ->  g
+  12:    1  ->  j
+  13:    1  ->  t
+  14:    1  ->  u
+  15:    1  ->  y
+     -------
+        44
+
+
+* NOTE: The 'Falsely Recognized' words are those hypothesis words
+        which the recognizer incorrectly substituted for a reference word.
+
