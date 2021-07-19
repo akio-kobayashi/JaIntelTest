@@ -7,7 +7,7 @@ VERSION 0.1
 System name:   results/sample_hyp2_phone.trn
 Ref file:      results/sample_ref_phone.trn
 Hyp file:      results/sample_hyp2_phone.trn
-Creation date: "Mon Jul 19 11:03:49 2021"
+Creation date: "Mon Jul 19 11:09:43 2021"
 
 Speaker Count: 1
 Speakers: 
@@ -23,10 +23,10 @@ Eval:
 
 Speaker sentences   0:     utt# 1 of 50
 id: (002)
-Scores: (#C #S #D #I) 8 0 1 0
-REF:  o S h i d a s h i 
-HYP:  o * h i d a s h i 
-Eval:   D               
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  o SH i d a sh i 
+HYP:  o H  i d a sh i 
+Eval:   S             
 
 Speaker sentences   0:     utt# 2 of 50
 id: (003)
@@ -44,10 +44,10 @@ Eval:
 
 Speaker sentences   0:     utt# 4 of 50
 id: (005)
-Scores: (#C #S #D #I) 5 2 1 1
-REF:  t e i * S a T S u 
-HYP:  t e i C H a * K u 
-Eval:       I S   D S   
+Scores: (#C #S #D #I) 5 2 0 0
+REF:  t e i S  a TS u 
+HYP:  t e i CH a K  u 
+Eval:       S    S    
 
 Speaker sentences   0:     utt# 5 of 50
 id: (006)
@@ -72,17 +72,17 @@ Eval:   D S S   I S
 
 Speaker sentences   0:     utt# 8 of 50
 id: (009)
-Scores: (#C #S #D #I) 6 3 0 0
-REF:  Y O R i m i c h i 
-HYP:  M U G i m i c h i 
-Eval: S S S             
+Scores: (#C #S #D #I) 5 3 0 0
+REF:  Y O R i m i ch i 
+HYP:  M U G i m i ch i 
+Eval: S S S            
 
 Speaker sentences   0:     utt# 9 of 50
 id: (010)
-Scores: (#C #S #D #I) 8 0 0 0
-REF:  a s h i b a y a 
-HYP:  a s h i b a y a 
-Eval:                 
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  a sh i b a y a 
+HYP:  a sh i b a y a 
+Eval:                
 
 Speaker sentences   0:     utt# 10 of 50
 id: (011)
@@ -93,10 +93,10 @@ Eval:
 
 Speaker sentences   0:     utt# 11 of 50
 id: (012)
-Scores: (#C #S #D #I) 6 0 0 1
-REF:  s * o u t a i 
-HYP:  s H o u t a i 
-Eval:   I           
+Scores: (#C #S #D #I) 5 1 0 0
+REF:  S  o u t a i 
+HYP:  SH o u t a i 
+Eval: S            
 
 Speaker sentences   0:     utt# 12 of 50
 id: (013)
@@ -121,17 +121,17 @@ Eval: S     S
 
 Speaker sentences   0:     utt# 15 of 50
 id: (016)
-Scores: (#C #S #D #I) 6 2 0 1
-REF:  * s u J i G a n e 
-HYP:  T s u R i K a n e 
-Eval: I     S   S       
+Scores: (#C #S #D #I) 5 3 0 0
+REF:  S  u J i G a n e 
+HYP:  TS u R i K a n e 
+Eval: S    S   S       
 
 Speaker sentences   0:     utt# 16 of 50
 id: (017)
-Scores: (#C #S #D #I) 8 0 0 0
-REF:  t e i t e t s u 
-HYP:  t e i t e t s u 
-Eval:                 
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  t e i t e ts u 
+HYP:  t e i t e ts u 
+Eval:                
 
 Speaker sentences   0:     utt# 17 of 50
 id: (018)
@@ -170,17 +170,17 @@ Eval: S S     S
 
 Speaker sentences   0:     utt# 22 of 50
 id: (023)
-Scores: (#C #S #D #I) 7 2 0 0
-REF:  B u t s u Y o k u 
-HYP:  F u t s u R o k u 
-Eval: S         S       
+Scores: (#C #S #D #I) 6 2 0 0
+REF:  B u ts u Y o k u 
+HYP:  F u ts u R o k u 
+Eval: S        S       
 
 Speaker sentences   0:     utt# 23 of 50
 id: (024)
-Scores: (#C #S #D #I) 6 3 0 0
-REF:  N a R a w a S h i 
-HYP:  M a M a w a C h i 
-Eval: S   S       S     
+Scores: (#C #S #D #I) 5 3 0 0
+REF:  N a R a w a SH i 
+HYP:  M a M a w a CH i 
+Eval: S   S       S    
 
 Speaker sentences   0:     utt# 24 of 50
 id: (025)
@@ -198,17 +198,17 @@ Eval:
 
 Speaker sentences   0:     utt# 26 of 50
 id: (027)
-Scores: (#C #S #D #I) 7 0 0 2
-REF:  * s u m i * i t o 
-HYP:  T s u m i B i t o 
-Eval: I         I       
+Scores: (#C #S #D #I) 6 1 0 1
+REF:  S  u m i * i t o 
+HYP:  TS u m i B i t o 
+Eval: S        I       
 
 Speaker sentences   0:     utt# 27 of 50
 id: (028)
-Scores: (#C #S #D #I) 4 3 0 1
-REF:  T e r a * S E n 
-HYP:  Z e r a C H I n 
-Eval: S       I S S   
+Scores: (#C #S #D #I) 4 3 0 0
+REF:  T e r a S  E n 
+HYP:  Z e r a CH I n 
+Eval: S       S  S   
 
 Speaker sentences   0:     utt# 28 of 50
 id: (029)
@@ -226,10 +226,10 @@ Eval:
 
 Speaker sentences   0:     utt# 30 of 50
 id: (031)
-Scores: (#C #S #D #I) 6 1 1 0
-REF:  m i C H i i t o 
-HYP:  m i * G i i t o 
-Eval:     D S         
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  m i CH i i t o 
+HYP:  m i G  i i t o 
+Eval:     S          
 
 Speaker sentences   0:     utt# 31 of 50
 id: (032)
@@ -240,17 +240,17 @@ Eval:
 
 Speaker sentences   0:     utt# 32 of 50
 id: (033)
-Scores: (#C #S #D #I) 8 1 0 0
-REF:  w a t a S h i b a 
-HYP:  w a t a C h i b a 
-Eval:         S         
+Scores: (#C #S #D #I) 7 1 0 0
+REF:  w a t a SH i b a 
+HYP:  w a t a CH i b a 
+Eval:         S        
 
 Speaker sentences   0:     utt# 33 of 50
 id: (034)
-Scores: (#C #S #D #I) 2 6 0 2
-REF:  B a * * N S E T S u 
-HYP:  M a C H U P I C H u 
-Eval: S   I I S S S S S   
+Scores: (#C #S #D #I) 2 5 0 1
+REF:  B a ** N S E TS u 
+HYP:  M a CH U P I CH u 
+Eval: S   I  S S S S    
 
 Speaker sentences   0:     utt# 34 of 50
 id: (035)
@@ -261,38 +261,38 @@ Eval: D   S   S
 
 Speaker sentences   0:     utt# 35 of 50
 id: (036)
-Scores: (#C #S #D #I) 8 0 0 0
-REF:  g y o k u g a n 
-HYP:  g y o k u g a n 
-Eval:                 
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  gy o k u g a n 
+HYP:  gy o k u g a n 
+Eval:                
 
 Speaker sentences   0:     utt# 36 of 50
 id: (037)
-Scores: (#C #S #D #I) 5 1 0 1
-REF:  * R a i n i n 
-HYP:  N Y a i n i n 
-Eval: I S           
+Scores: (#C #S #D #I) 5 1 0 0
+REF:  R  a i n i n 
+HYP:  NY a i n i n 
+Eval: S            
 
 Speaker sentences   0:     utt# 37 of 50
 id: (038)
-Scores: (#C #S #D #I) 7 0 0 1
-REF:  * a i k y a k u 
-HYP:  B a i k y a k u 
-Eval: I               
+Scores: (#C #S #D #I) 6 0 0 1
+REF:  * a i ky a k u 
+HYP:  B a i ky a k u 
+Eval: I              
 
 Speaker sentences   0:     utt# 38 of 50
 id: (039)
-Scores: (#C #S #D #I) 6 2 0 0
-REF:  g y O k u D a i 
-HYP:  g y A k u T a i 
-Eval:     S     S     
+Scores: (#C #S #D #I) 5 2 0 0
+REF:  gy O k u D a i 
+HYP:  gy A k u T a i 
+Eval:    S     S     
 
 Speaker sentences   0:     utt# 39 of 50
 id: (040)
-Scores: (#C #S #D #I) 6 1 0 1
-REF:  s * u G i w a i 
-HYP:  s H u B i w a i 
-Eval:   I   S         
+Scores: (#C #S #D #I) 5 2 0 0
+REF:  S  u G i w a i 
+HYP:  SH u B i w a i 
+Eval: S    S         
 
 Speaker sentences   0:     utt# 40 of 50
 id: (041)
@@ -324,10 +324,10 @@ Eval:     S   S   S
 
 Speaker sentences   0:     utt# 44 of 50
 id: (045)
-Scores: (#C #S #D #I) 6 2 1 1
-REF:  y o R o * s H I k i 
-HYP:  y o Y o T s * U k i 
-Eval:     S   I   D S     
+Scores: (#C #S #D #I) 5 3 0 0
+REF:  y o R o SH I k i 
+HYP:  y o Y o TS U k i 
+Eval:     S   S  S     
 
 Speaker sentences   0:     utt# 45 of 50
 id: (046)
@@ -338,10 +338,10 @@ Eval: S   D S S
 
 Speaker sentences   0:     utt# 46 of 50
 id: (047)
-Scores: (#C #S #D #I) 4 2 2 0
-REF:  n e I J i T S u 
-HYP:  n e * R i * K u 
-Eval:     D S   D S   
+Scores: (#C #S #D #I) 4 2 1 0
+REF:  n e I J i TS u 
+HYP:  n e * R i K  u 
+Eval:     D S   S    
 
 Speaker sentences   0:     utt# 47 of 50
 id: (048)
@@ -359,9 +359,9 @@ Eval: D
 
 Speaker sentences   0:     utt# 49 of 50
 id: (050)
-Scores: (#C #S #D #I) 4 1 2 0
-REF:  H o S H i a i 
-HYP:  * o * K i a i 
-Eval: D   D S       
+Scores: (#C #S #D #I) 4 1 1 0
+REF:  H o SH i a i 
+HYP:  * o K  i a i 
+Eval: D   S        
 
 

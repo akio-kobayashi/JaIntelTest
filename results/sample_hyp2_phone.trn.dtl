@@ -5,158 +5,162 @@ SENTENCE RECOGNITION PERFORMANCE
  sentences                                          50
  with errors                             64.0%   (  32)
 
-   with substitions                      54.0%   (  27)
-   with deletions                        22.0%   (  11)
-   with insertions                       22.0%   (  11)
+   with substitions                      60.0%   (  30)
+   with deletions                        14.0%   (   7)
+   with insertions                        8.0%   (   4)
 
 
 WORD RECOGNITION PERFORMANCE
 
-Percent Total Error       =   23.1%   (  86)
+Percent Total Error       =   21.4%   (  76)
 
-Percent Correct           =   80.4%   ( 299)
+Percent Correct           =   79.7%   ( 283)
 
-Percent Substitution      =   16.1%   (  60)
-Percent Deletions         =    3.5%   (  13)
-Percent Insertions        =    3.5%   (  13)
-Percent Word Accuracy     =   76.9%
+Percent Substitution      =   18.3%   (  65)
+Percent Deletions         =    2.0%   (   7)
+Percent Insertions        =    1.1%   (   4)
+Percent Word Accuracy     =   78.6%
 
 
-Ref. words                =           ( 372)
-Hyp. words                =           ( 372)
-Aligned words             =           ( 385)
+Ref. words                =           ( 355)
+Hyp. words                =           ( 352)
+Aligned words             =           ( 359)
 
-CONFUSION PAIRS                  Total                 (42)
-                                 With >=  1 occurances (42)
+CONFUSION PAIRS                  Total                 (47)
+                                 With >=  1 occurances (47)
 
    1:    3  ->  e ==> i
    2:    3  ->  g ==> k
    3:    3  ->  n ==> m
    4:    3  ->  r ==> m
-   5:    3  ->  s ==> h
-   6:    2  ->  d ==> z
-   7:    2  ->  i ==> u
-   8:    2  ->  j ==> r
-   9:    2  ->  r ==> n
-  10:    2  ->  r ==> y
-  11:    2  ->  s ==> c
-  12:    2  ->  s ==> k
-  13:    2  ->  w ==> m
-  14:    1  ->  a ==> o
-  15:    1  ->  b ==> f
-  16:    1  ->  b ==> g
-  17:    1  ->  b ==> m
-  18:    1  ->  b ==> p
-  19:    1  ->  d ==> g
-  20:    1  ->  d ==> k
-  21:    1  ->  d ==> t
-  22:    1  ->  g ==> a
-  23:    1  ->  g ==> b
-  24:    1  ->  h ==> g
-  25:    1  ->  h ==> k
+   5:    2  ->  d ==> z
+   6:    2  ->  i ==> u
+   7:    2  ->  j ==> r
+   8:    2  ->  r ==> n
+   9:    2  ->  s ==> ch
+  10:    2  ->  s ==> sh
+  11:    2  ->  s ==> ts
+  12:    2  ->  sh ==> ch
+  13:    2  ->  ts ==> k
+  14:    2  ->  w ==> m
+  15:    1  ->  a ==> o
+  16:    1  ->  b ==> f
+  17:    1  ->  b ==> g
+  18:    1  ->  b ==> m
+  19:    1  ->  b ==> p
+  20:    1  ->  ch ==> g
+  21:    1  ->  d ==> g
+  22:    1  ->  d ==> k
+  23:    1  ->  d ==> t
+  24:    1  ->  g ==> a
+  25:    1  ->  g ==> b
   26:    1  ->  i ==> k
   27:    1  ->  j ==> d
   28:    1  ->  n ==> u
   29:    1  ->  o ==> a
   30:    1  ->  o ==> u
   31:    1  ->  r ==> g
-  32:    1  ->  s ==> p
-  33:    1  ->  s ==> y
-  34:    1  ->  s ==> z
-  35:    1  ->  t ==> c
-  36:    1  ->  t ==> z
-  37:    1  ->  u ==> j
-  38:    1  ->  u ==> o
-  39:    1  ->  y ==> i
-  40:    1  ->  y ==> m
-  41:    1  ->  y ==> n
-  42:    1  ->  y ==> r
+  32:    1  ->  r ==> ny
+  33:    1  ->  r ==> y
+  34:    1  ->  s ==> p
+  35:    1  ->  s ==> y
+  36:    1  ->  s ==> z
+  37:    1  ->  sh ==> h
+  38:    1  ->  sh ==> k
+  39:    1  ->  sh ==> ts
+  40:    1  ->  t ==> z
+  41:    1  ->  ts ==> ch
+  42:    1  ->  u ==> j
+  43:    1  ->  u ==> o
+  44:    1  ->  y ==> i
+  45:    1  ->  y ==> m
+  46:    1  ->  y ==> n
+  47:    1  ->  y ==> r
      -------
-        60
+        65
 
 
 
-INSERTIONS                       Total                 (6)
-                                 With >=  1 occurances (6)
+INSERTIONS                       Total                 (3)
+                                 With >=  1 occurances (3)
 
-   1:    3  ->  c
-   2:    3  ->  h
-   3:    3  ->  t
-   4:    2  ->  b
-   5:    1  ->  a
-   6:    1  ->  n
+   1:    2  ->  b
+   2:    1  ->  a
+   3:    1  ->  ch
      -------
-        13
+         4
 
 
 
-DELETIONS                        Total                 (8)
-                                 With >=  1 occurances (8)
+DELETIONS                        Total                 (5)
+                                 With >=  1 occurances (5)
 
-   1:    2  ->  h
-   2:    2  ->  i
-   3:    2  ->  r
-   4:    2  ->  s
-   5:    2  ->  t
-   6:    1  ->  c
-   7:    1  ->  f
-   8:    1  ->  z
+   1:    2  ->  i
+   2:    2  ->  r
+   3:    1  ->  f
+   4:    1  ->  h
+   5:    1  ->  z
      -------
-        13
+         7
 
 
 
-SUBSTITUTIONS                    Total                 (16)
-                                 With >=  1 occurances (16)
+SUBSTITUTIONS                    Total                 (18)
+                                 With >=  1 occurances (18)
 
-   1:   10  ->  s
+   1:    9  ->  s
    2:    8  ->  r
    3:    5  ->  d
    4:    5  ->  g
-   5:    4  ->  b
-   6:    4  ->  n
-   7:    4  ->  y
-   8:    3  ->  e
-   9:    3  ->  i
-  10:    3  ->  j
-  11:    2  ->  h
-  12:    2  ->  o
-  13:    2  ->  t
+   5:    5  ->  sh
+   6:    4  ->  b
+   7:    4  ->  n
+   8:    4  ->  y
+   9:    3  ->  e
+  10:    3  ->  i
+  11:    3  ->  j
+  12:    3  ->  ts
+  13:    2  ->  o
   14:    2  ->  u
   15:    2  ->  w
   16:    1  ->  a
+  17:    1  ->  ch
+  18:    1  ->  t
      -------
-        60
+        65
 
 
 * NOTE: The 'Substitution' words are those reference words
         for which the recognizer supplied an incorrect word.
 
 
-FALSELY RECOGNIZED               Total                 (19)
-                                 With >=  1 occurances (19)
+FALSELY RECOGNIZED               Total                 (22)
+                                 With >=  1 occurances (22)
 
    1:   10  ->  m
    2:    8  ->  k
-   3:    4  ->  g
-   4:    4  ->  i
-   5:    4  ->  u
-   6:    4  ->  z
-   7:    3  ->  c
-   8:    3  ->  h
-   9:    3  ->  n
-  10:    3  ->  r
-  11:    3  ->  y
-  12:    2  ->  a
-  13:    2  ->  o
-  14:    2  ->  p
-  15:    1  ->  b
-  16:    1  ->  d
-  17:    1  ->  f
-  18:    1  ->  j
-  19:    1  ->  t
+   3:    5  ->  ch
+   4:    4  ->  g
+   5:    4  ->  i
+   6:    4  ->  u
+   7:    4  ->  z
+   8:    3  ->  n
+   9:    3  ->  r
+  10:    3  ->  ts
+  11:    2  ->  a
+  12:    2  ->  o
+  13:    2  ->  p
+  14:    2  ->  sh
+  15:    2  ->  y
+  16:    1  ->  b
+  17:    1  ->  d
+  18:    1  ->  f
+  19:    1  ->  h
+  20:    1  ->  j
+  21:    1  ->  ny
+  22:    1  ->  t
      -------
-        60
+        65
 
 
 * NOTE: The 'Falsely Recognized' words are those hypothesis words
