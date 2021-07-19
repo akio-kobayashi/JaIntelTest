@@ -4,10 +4,10 @@ VERSION 0.1
 
 		DUMP OF SYSTEM ALIGNMENT STRUCTURE
 
-System name:   sample_hyp1_mora.trn
-Ref file:      sample_ref_mora.trn
-Hyp file:      sample_hyp1_mora.trn
-Creation date: "Sat Jul 17 14:10:29 2021"
+System name:   results/sample_hyp1_mora.trn
+Ref file:      results/sample_ref_mora.trn
+Hyp file:      results/sample_hyp1_mora.trn
+Creation date: "Mon Jul 19 11:03:49 2021"
 
 Speaker Count: 1
 Speakers: 
@@ -44,10 +44,10 @@ Eval:
 
 Speaker sentences   0:     utt# 4 of 50
 id: (005)
-Scores: (#C #S #D #I) 2 2 0 1
-REF:  テ イ *** サ ツ 
-HYP:  テ イ チ ャ ク 
-Eval:         I   S   S   
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  テ イ サ    ツ 
+HYP:  テ イ チャ ク 
+Eval:         S      S   
 
 Speaker sentences   0:     utt# 5 of 50
 id: (006)
@@ -289,10 +289,10 @@ Eval: S
 
 Speaker sentences   0:     utt# 39 of 50
 id: (040)
-Scores: (#C #S #D #I) 3 1 0 1
-REF:  *** ス ギ ワ イ 
-HYP:  チ ュ ギ ワ イ 
-Eval: I   S               
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  ス    ギ ワ イ 
+HYP:  チュ ギ ワ イ 
+Eval: S                  
 
 Speaker sentences   0:     utt# 40 of 50
 id: (041)
@@ -317,10 +317,10 @@ Eval:
 
 Speaker sentences   0:     utt# 43 of 50
 id: (044)
-Scores: (#C #S #D #I) 1 3 0 1
-REF:  ミ *** サ サ    ギ 
-HYP:  ミ チ ャ ジャ キ 
-Eval:     I   S   S      S   
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  ミ サ    サ    ギ 
+HYP:  ミ チャ ジャ キ 
+Eval:     S      S      S   
 
 Speaker sentences   0:     utt# 44 of 50
 id: (045)

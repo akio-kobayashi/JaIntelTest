@@ -4,10 +4,10 @@ VERSION 0.1
 
 		DUMP OF SYSTEM ALIGNMENT STRUCTURE
 
-System name:   sample_hyp2_mora.trn
-Ref file:      sample_ref_mora.trn
-Hyp file:      sample_hyp2_mora.trn
-Creation date: "Sat Jul 17 14:10:29 2021"
+System name:   results/sample_hyp2_mora.trn
+Ref file:      results/sample_ref_mora.trn
+Hyp file:      results/sample_hyp2_mora.trn
+Creation date: "Mon Jul 19 11:03:49 2021"
 
 Speaker Count: 1
 Speakers: 
@@ -44,10 +44,10 @@ Eval:
 
 Speaker sentences   0:     utt# 4 of 50
 id: (005)
-Scores: (#C #S #D #I) 2 2 0 1
-REF:  テ イ *** サ ツ 
-HYP:  テ イ チ ャ ク 
-Eval:         I   S   S   
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  テ イ サ    ツ 
+HYP:  テ イ チャ ク 
+Eval:         S      S   
 
 Speaker sentences   0:     utt# 5 of 50
 id: (006)
@@ -247,10 +247,10 @@ Eval:         S
 
 Speaker sentences   0:     utt# 33 of 50
 id: (034)
-Scores: (#C #S #D #I) 0 4 0 2
-REF:  *** *** バ ン セ ツ 
-HYP:  マ チ ュ ピ チ ュ 
-Eval: I   I   S   S   S   S   
+Scores: (#C #S #D #I) 0 4 0 0
+REF:  バ ン    セ ツ    
+HYP:  マ チュ ピ チュ 
+Eval: S   S      S   S      
 
 Speaker sentences   0:     utt# 34 of 50
 id: (035)

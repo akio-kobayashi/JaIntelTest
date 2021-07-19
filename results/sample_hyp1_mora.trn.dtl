@@ -1,4 +1,4 @@
-DETAILED OVERALL REPORT FOR THE SYSTEM: sample_hyp1_mora.trn
+DETAILED OVERALL REPORT FOR THE SYSTEM: results/sample_hyp1_mora.trn
 
 SENTENCE RECOGNITION PERFORMANCE
 
@@ -7,24 +7,24 @@ SENTENCE RECOGNITION PERFORMANCE
 
    with substitions                      56.0%   (  28)
    with deletions                         2.0%   (   1)
-   with insertions                       16.0%   (   8)
+   with insertions                       10.0%   (   5)
 
 
 WORD RECOGNITION PERFORMANCE
 
-Percent Total Error       =   27.0%   (  54)
+Percent Total Error       =   25.5%   (  51)
 
 Percent Correct           =   77.0%   ( 154)
 
 Percent Substitution      =   22.5%   (  45)
 Percent Deletions         =    0.5%   (   1)
-Percent Insertions        =    4.0%   (   8)
-Percent Word Accuracy     =   73.0%
+Percent Insertions        =    2.5%   (   5)
+Percent Word Accuracy     =   74.5%
 
 
 Ref. words                =           ( 200)
-Hyp. words                =           ( 207)
-Aligned words             =           ( 208)
+Hyp. words                =           ( 204)
+Aligned words             =           ( 205)
 
 CONFUSION PAIRS                  Total                 (35)
                                  With >=  1 occurances (35)
@@ -32,7 +32,7 @@ CONFUSION PAIRS                  Total                 (35)
    1:    4  ->  シ ==> チ
    2:    4  ->  ツ ==> ク
    3:    2  ->  ギ ==> キ
-   4:    2  ->  サ ==> ャ
+   4:    2  ->  サ ==> チャ
    5:    2  ->  ラ ==> ア
    6:    2  ->  リ ==> ニ
    7:    1  ->  ア ==> ラ
@@ -48,8 +48,8 @@ CONFUSION PAIRS                  Total                 (35)
   17:    1  ->  ジ ==> ギ
   18:    1  ->  ジ ==> ディ
   19:    1  ->  ス ==> キ
-  20:    1  ->  ス ==> ツ
-  21:    1  ->  ス ==> ュ
+  20:    1  ->  ス ==> チュ
+  21:    1  ->  ス ==> ツ
   22:    1  ->  ズ ==> ビ
   23:    1  ->  セ ==> キ
   24:    1  ->  セ ==> チ
@@ -69,17 +69,16 @@ CONFUSION PAIRS                  Total                 (35)
 
 
 
-INSERTIONS                       Total                 (6)
-                                 With >=  1 occurances (6)
+INSERTIONS                       Total                 (5)
+                                 With >=  1 occurances (5)
 
-   1:    3  ->  チ
-   2:    1  ->  ツ
-   3:    1  ->  ヒ
-   4:    1  ->  プ
-   5:    1  ->  ミ
-   6:    1  ->  ン
+   1:    1  ->  ツ
+   2:    1  ->  ヒ
+   3:    1  ->  プ
+   4:    1  ->  ミ
+   5:    1  ->  ン
      -------
-         8
+         5
 
 
 
@@ -136,8 +135,8 @@ FALSELY RECOGNIZED               Total                 (26)
    3:    5  ->  キ
    4:    3  ->  ア
    5:    2  ->  ゴ
-   6:    2  ->  ニ
-   7:    2  ->  ャ
+   6:    2  ->  チャ
+   7:    2  ->  ニ
    8:    1  ->  オ
    9:    1  ->  カ
   10:    1  ->  キョ
@@ -145,16 +144,16 @@ FALSELY RECOGNIZED               Total                 (26)
   12:    1  ->  ケ
   13:    1  ->  ジャ
   14:    1  ->  ダ
-  15:    1  ->  ツ
-  16:    1  ->  テ
-  17:    1  ->  ディ
-  18:    1  ->  ハ
-  19:    1  ->  ビ
-  20:    1  ->  フ
-  21:    1  ->  プ
-  22:    1  ->  ヘ
-  23:    1  ->  マ
-  24:    1  ->  ュ
+  15:    1  ->  チュ
+  16:    1  ->  ツ
+  17:    1  ->  テ
+  18:    1  ->  ディ
+  19:    1  ->  ハ
+  20:    1  ->  ビ
+  21:    1  ->  フ
+  22:    1  ->  プ
+  23:    1  ->  ヘ
+  24:    1  ->  マ
   25:    1  ->  ラ
   26:    1  ->  レ
      -------

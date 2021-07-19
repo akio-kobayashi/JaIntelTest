@@ -4,7 +4,7 @@
                      SYSTEM SUMMARY PERCENTAGES by SPEAKER                      
 
        ,----------------------------------------------------------------.
-       |                      sample_hyp1_char.trn                      |
+       |                  results/sample_hyp1_char.trn                  |
        |----------------------------------------------------------------|
        | SPKR   | # Snt # Wrd | Corr    Sub    Del    Ins    Err  S.Err |
        |--------+-------------+-----------------------------------------|

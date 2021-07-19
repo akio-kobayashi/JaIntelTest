@@ -4,7 +4,7 @@
                      SYSTEM SUMMARY PERCENTAGES by SPEAKER                      
 
        ,----------------------------------------------------------------.
-       |                     sample_hyp2_phone.trn                      |
+       |                 results/sample_hyp2_phone.trn                  |
        |----------------------------------------------------------------|
        | SPKR   | # Snt # Wrd | Corr    Sub    Del    Ins    Err  S.Err |
        |--------+-------------+-----------------------------------------|

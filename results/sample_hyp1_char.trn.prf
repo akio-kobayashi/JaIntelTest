@@ -4,10 +4,10 @@ VERSION 0.1
 
 		DUMP OF SYSTEM ALIGNMENT STRUCTURE
 
-System name:   sample_hyp1_char.trn
-Ref file:      sample_ref_char.trn
-Hyp file:      sample_hyp1_char.trn
-Creation date: "Sat Jul 17 14:10:29 2021"
+System name:   results/sample_hyp1_char.trn
+Ref file:      results/sample_ref_char.trn
+Hyp file:      results/sample_hyp1_char.trn
+Creation date: "Mon Jul 19 11:03:49 2021"
 
 Speaker Count: 1
 Speakers: 
